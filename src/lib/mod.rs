@@ -1,1 +1,3 @@
-pub mod my_lib
+pub fn hello() {
+    println!("Hello, world!");
+}
