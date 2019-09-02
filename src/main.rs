@@ -1,3 +1,5 @@
+extern crate mod_demo;
+
 fn main() {
-    println!("Hello, world!");
+    mod_demo::hello();
 }
