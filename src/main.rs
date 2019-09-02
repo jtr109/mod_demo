@@ -1,5 +1,5 @@
-extern crate mod_demo;
+extern crate my_mod;
 
 fn main() {
-    mod_demo::hello();
+    my_mod::hello();
 }
